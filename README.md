@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/api.jpg" alt="API de usuários e produtos" width="100%">
+</p>
+
 # api-usuarios-produtos
 RESTful API for managing users and products with authentication, built using Node.js, Express, and PostgreSQL.
 # 🧩 User & Product Management API
