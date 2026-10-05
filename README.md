@@ -1,29 +1,31 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/api.jpg" alt="API de usuários e produtos" width="100%">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/api.jpg" alt="Users and products API" width="100%">
 </p>
 
-# api-usuarios-produtos
-RESTful API for managing users and products with authentication, built using Node.js, Express, and PostgreSQL.
-# 🧩 User & Product Management API
+# User and Product Management API
 
-A RESTful API for managing users and products with JWT authentication and secure password hashing using **Node.js**, **Express**, **PostgreSQL**, and **Prisma**.
+A REST API for users and products, with JWT authentication and secure password hashing. Built with **Node.js**, **Express**, **PostgreSQL**, and **Prisma**.
 
-## 🚀 Features
-- CRUD operations for users and products
-- JWT-based authentication
+## Features
+
+- CRUD for users and products
+- JWT authentication
 - Password hashing with bcrypt
-- Swagger API documentation
-- Deployment-ready on Render
+- Swagger documentation
+- Ready to deploy on Render
 
-## 🛠️ Tech Stack
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL + Prisma ORM
-- **Auth:** JWT, bcrypt
+## Stack
+
+- **Backend:** Node.js and Express
+- **Database:** PostgreSQL and Prisma
+- **Auth:** JWT and bcrypt
 - **Docs:** Swagger UI
 
-## 📦 Installation (local setup)
+## Local setup
+
 ```bash
-git clone https://github.com/abdoulrachid/api-usuarios-produtos.git
+git clone https://github.com/abdoulrl2028-cloud-Dev/api-usuarios-produtos.git
 cd api-usuarios-produtos
 npm install
 npm run dev
+```
